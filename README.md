@@ -1,2 +1,2 @@
-# curso-udemy-javascript-de-cero-hasta-los-detalles
+# Aprendiendo los conceptos básico de Javascript
 Curso de Javascript de cero hasta los detalles. (Fernando Herrera Udemy)
