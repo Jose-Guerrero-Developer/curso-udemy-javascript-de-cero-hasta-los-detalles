@@ -8,7 +8,7 @@ function Person(name, lastName, age)
     } 
 }
 
-var firts = new Person(
+var first = new Person(
     'Susana Alexandra',
     'Lopéz Medina',
     18
@@ -16,8 +16,8 @@ var firts = new Person(
 
 var second = Person();
 
-console.log('Instancia new', firts);
-console.log(firts.getData());
+console.log('Instancia new', first);
+console.log(first.getData());
 
 console.log('------------------------------');
 console.log('Eliminando la instancia new (Retorna undefined de la función Person())', second);
