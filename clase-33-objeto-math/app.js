@@ -15,3 +15,12 @@ myRandom = function (min, max) {
 }
 
 console.log('myRandom(500, 850)', myRandom(500, 850))
+
+/**
+var PI = Math.PI 3.141592653589793
+var E = Math.E 2.718281828459045
+var number = 10.456789 10.456789
+(Math.round(number * 100) / 100) 10.46
+Math.floor(number) 10
+myRandom(500, 850) 688
+ */
