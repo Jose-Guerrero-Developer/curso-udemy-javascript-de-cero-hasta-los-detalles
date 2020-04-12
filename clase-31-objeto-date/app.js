@@ -24,3 +24,18 @@ console.log(`${ ((finishCounting.getTime() - startCounting.getTime()) / 1000) } 
 
 console.log(now)
 console.log(now.increaseDays(2))
+
+/**
+var now = new Date() Sun Apr 12 2020 16:04:50 GMT-0500 (hora estándar de Colombia)
+now.getDate() 12
+now.getMonth() 3
+now.getHours() 16
+now.getMinutes() 4
+now.getSeconds() 50
+now.getMilliseconds() 670
+now.getFullYear() 2020
+1500 execution process
+0.058 segundos
+Sun Apr 12 2020 16:04:50 GMT-0500 (hora estándar de Colombia)
+Tue Apr 14 2020 16:04:50 GMT-0500 (hora estándar de Colombia)
+ */
